@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snooker-live/static/css/main.af9a4497.css",
+    "main.js": "/snooker-live/static/js/main.0e206f6b.js",
+    "static/js/437.fe8b5c4d.chunk.js": "/snooker-live/static/js/437.fe8b5c4d.chunk.js",
+    "static/js/206.c8db8691.chunk.js": "/snooker-live/static/js/206.c8db8691.chunk.js",
+    "index.html": "/snooker-live/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.af9a4497.css",
+    "static/js/main.0e206f6b.js"
+  ]
+}
